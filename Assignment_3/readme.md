@@ -40,3 +40,7 @@ public class Main
 
 Caught
 you
+
+## Difficutlt question
+* Why is string immutable in Java?
+* What is Reflection API ?
